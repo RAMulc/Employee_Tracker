@@ -13,7 +13,7 @@ An app for managing a company's employees using node, inquirer, and MySQL
 <br>
 [Usage](#Usage)
 <br>
-[Future Development](#Future)
+[Future Development](#FutureDevelopment)
 
 <br>
 ---------------
@@ -60,7 +60,7 @@ Run npm install to install the required packages.
 
   ![Employee Tracker](https://github.com/RAMulc/Employee_Tracker/blob/main/assets/Demo.webm)
 
-## Future Development
+## FutureDevelopment
 
 - Delete 'Department', 'Role' and 'Employee' from the database; and
 - View department utilised budget.
