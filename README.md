@@ -12,7 +12,6 @@ An app for managing a company's employees using node, inquirer, and MySQL
 [Installation](#Installation)
 <br>
 [Usage](#Usage)
-
 <br>
 [Future Development](#Future Development)
 
@@ -43,7 +42,7 @@ The application currently allows the following functionality:
 
 For future development options refer below.
 
-![](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/Screenshot.png)
+![](https://github.com/RAMulc/Employee_Tracker/blob/main/assets/ScreenDump.bmp)
 
 
 
@@ -59,7 +58,7 @@ Run npm install to install the required packages.
 
 - Refer to the video demo link above to see the running application.
 
-  ![Employee Tracker](Assets/employee-tracker.gif)
+  ![Employee Tracker](https://github.com/RAMulc/Employee_Tracker/blob/main/assets/Demo.webm)
 
 ## Future Development
 
