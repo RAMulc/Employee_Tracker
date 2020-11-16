@@ -13,7 +13,7 @@ An app for managing a company's employees using node, inquirer, and MySQL
 <br>
 [Usage](#Usage)
 <br>
-[Future Development](#Future Development)
+[Future Development](#Future)
 
 <br>
 ---------------
